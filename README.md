@@ -1,7 +1,7 @@
-twitter.github.com
+antoncohen.github.io
 ======
 
-The source code of http://twitter.github.com/
+The source code of http://antoncohen.github.io/
 
 LICENSE
 ------------
